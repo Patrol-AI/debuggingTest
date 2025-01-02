@@ -16,7 +16,7 @@ You have been provided with a Remix application designed to fetch products from 
 ### Current Issues:
 1. **State Management Issues:** The application might not correctly handle state updates after form submissions.
 2. **Form Handling Errors:** The form may not correctly capture or submit the necessary data to update the product title.
-3. **Using Depreciated APIs** The calls might be going to endpoints that no longer exist publicly throwing weird errors (potentially 401 or 404), can you identify their replacements?
+3. **Using Depreciated APIs** The calls might be going to endpoints that no longer exist publicly throwing weird errors (potentially 401 or 404), can you replace them with update to date API Calls (GraphQL)
 
 ### Bonus Objective:
 - **Use Strong Typing:** Refactor the code to use strong typing features of TypeScript wherever applicable. This includes defining interfaces or types for API responses, form data, and other key parts of the application.
