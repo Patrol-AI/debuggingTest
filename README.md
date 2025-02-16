@@ -35,30 +35,27 @@ Your video should focus on explaining your debugging process whilst walking thro
 
 ## Steps to Complete the Task
 
-1. **Clone the Repository:**
-   - Download the provided ZIP file or repository and extract it to your local development environment.
-
-2. **Set Up the Environment:**
+1. **Set Up the Environment:**
    - Install the necessary dependencies by running:
      ```bash
      npm install
      ```
 
-3. **Run the Application:**
+2. **Run the Application:**
    - Start the development server:
      ```bash
      npm run dev
      ```
 
-4. **Debug and Fix the Issues:**
+3. **Debug and Fix the Issues:**
    - Identify the bugs in the application related to API requests, form handling, state management, and UI rendering.
    - Fix the issues to ensure that the application works as expected. Users should be able to update the product titles without errors.
 
-5. **Implement the Bonus Objective (Optional):**
+4. **Implement the Bonus Objective (Optional):**
    - Add comments to the codebase to improve readability and maintainability.
    - Use TypeScript’s strong typing features to define types or interfaces for the data structures and ensure type safety throughout the application.
 
-6. **Test Your Fixes:**
+5. **Test Your Fixes:**
    - Test the application thoroughly to ensure all identified issues are resolved.
    - Ensure that all changes are correctly reflected in the Shopify Admin and on the front-end of the application.
 
@@ -71,7 +68,7 @@ Your video should focus on explaining your debugging process whilst walking thro
 
 2. **Submit Your Work:**
    - Compress the project directory into a ZIP file.
-   - Email the ZIP file and your video to applyo@patrolapp.ai.
+   - Email the ZIP file and your video to apply@patrolapp.ai.
    - Use the subject line: [Your Name] - Technical Test #1
 
 ## Important Notes
