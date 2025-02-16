@@ -3,20 +3,23 @@
 ## Overview
 
 Welcome to the debugging task! The goal of this exercise is to assess your debugging and problem-solving skills by working on a single-page application that retrieves product information from a Shopify store and allows users to update the product titles. However, the current implementation has several bugs that need to be fixed.
-This task is part of the application for a role of founding engineer at Patrol AI inc.
+This task is part of the application for a role of full stack engineer at Patrol AI inc.
 
-### Expected Time
+### Time Limit
 
-- **Estimated Time:** 30 - 60 minutes.
+- You have **75 minutes** from your start time to complete the task and email your material to apply@patrolapp.ai. 
+
+### External Tools & AI
+
+- Whilst completing this assessment, you are allowed to use any tools that you would use when coding day to day. This includes any and all AI tooling. We just ask that you include a list of tools that you use at the top of your submission.
 
 ## Task Description
 
-You have been provided with a Remix application designed to fetch products from a Shopify store and display them on a webpage. Users should be able to update the titles of these products. Unfortunately, there are several issues in the current implementation, and your job is to identify and fix them.
+You have been provided with a Remix application designed to fetch products from a Shopify store and display them on a webpage. Users should be able to update the titles of these products. Unfortunately, there are several issues in the current implementation, and your job is to identify and fix them. You must also record a **maximum 5 minute** screen recording describing your debugging process and showing some of the issues that you fixed as part of your submission.
 
-### Current Issues:
-1. **State Management Issues:** The application might not correctly handle state updates after form submissions.
-2. **Form Handling Errors:** The form may not correctly capture or submit the necessary data to update the product title.
-3. **Using Depreciated APIs** The calls might be going to endpoints that no longer exist publicly throwing weird errors (potentially 401 or 404), can you replace them with update to date API Calls (GraphQL)
+### APIs :
+
+You will be provided an API key for Shopify services as part of your instruction email. Please note the currently broken app uses a deprecated REST api. As part of your debugging, you will expected to swap this REST api out for a GraphQL solution since this is the direction that Shopify has moved.  
 
 ### Bonus Objective:
 - **Use Strong Typing:** Refactor the code to use strong typing features of TypeScript wherever applicable. This includes defining interfaces or types for API responses, form data, and other key parts of the application.
@@ -24,6 +27,11 @@ You have been provided with a Remix application designed to fetch products from 
 ### Additional Information:
 - **Sample Video:** A sample video of the functional application is provided to help you understand the expected behavior.
 - **Concurrency Warning:** In the rare case that multiple applicants are working on this task simultaneously, you may encounter unexpected updates to product titles. Please be aware of this possibility during your testing.
+
+### Submission Video
+
+For your 5 min screen recording as part of the application, we recommend using <a href="https://www.loom.com/">Loom</a> to record your videos, however this is entirely up to you. 
+Your video should focus on explaining your debugging process whilst walking throuhg at least one example. If you do choose to use AI tools, this is your opportunity to explain why and how you use them.  
 
 ## Steps to Complete the Task
 
@@ -59,10 +67,12 @@ You have been provided with a Remix application designed to fetch products from 
 1. **Prepare Your Submission:**
    - Ensure your code is clean, well-documented, and clearly explains any changes made.
    - Include a brief explanation of each bug you found and how you resolved it in a separate `BUGFIX.md` file.
+   - Record your explanation video. 
 
 2. **Submit Your Work:**
    - Compress the project directory into a ZIP file.
-   - Email the ZIP file to nico@patrolapp.ai.
+   - Email the ZIP file and your video to applyo@patrolapp.ai.
+   - Use the subject line: [Your Name] - Technical Test #1
 
 ## Important Notes
 
