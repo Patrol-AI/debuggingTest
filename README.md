@@ -3,7 +3,7 @@
 ## Overview
 
 Welcome to the debugging task! The goal of this exercise is to assess your debugging and problem-solving skills by working on a single-page application that retrieves product information from a Shopify store and allows users to update the product titles. However, the current implementation has several bugs that need to be fixed.
-This task is part of the application for a role of full stack engineer at Patrol AI inc.
+This task is part of the application for an engineer role at Patrol AI inc.
 
 ### Time Limit
 
