@@ -68,7 +68,7 @@ Your video should focus on explaining your debugging process whilst walking thro
 
 2. **Submit Your Work:**
    - Compress the project directory into a ZIP file.
-   - Email the ZIP file and your video to apply@patrolapp.ai.
+   - Upload the ZIP file to google drive and then email the drive link to apply@patrolapp.ai. (Trying to directly email the ZIP may have issues). 
    - Use the subject line: [Your Name] - Technical Test #1
 
 ## Important Notes
@@ -78,4 +78,4 @@ Your video should focus on explaining your debugging process whilst walking thro
 
 ## Questions?
 
-If you have any questions or encounter any issues, feel free to reach out to nico@patrolapp.ai.
+If you have any questions or encounter any issues, feel free to reach out to apply@patrolapp.ai.
