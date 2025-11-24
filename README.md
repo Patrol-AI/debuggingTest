@@ -19,7 +19,7 @@ You have been provided with a Remix application designed to fetch products from 
 
 ### APIs :
 
-You will be provided an API key for Shopify services as part of your instruction email. Please note the currently broken app uses a deprecated REST api. As part of your debugging, you will expected to swap this REST api out for a GraphQL solution since this is the direction that Shopify has moved.  
+You will be provided an API key for Shopify services as part of your instruction email. Please note the currently broken app uses a deprecated REST api. **As part of your debugging, you will expected to swap this REST api out for a GraphQL solution** since this is the direction that Shopify has moved.  
 
 ### Bonus Objective:
 - **Use Strong Typing:** Refactor the code to use strong typing features of TypeScript wherever applicable. This includes defining interfaces or types for API responses, form data, and other key parts of the application.
