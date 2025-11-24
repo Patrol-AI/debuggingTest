@@ -15,23 +15,18 @@ This task is part of the application for an engineer role at Patrol AI inc.
 
 ## Task Description
 
-You have been provided with a Remix application designed to fetch products from a Shopify store and display them on a webpage. Users should be able to update the titles of these products. Unfortunately, there are several issues in the current implementation, and your job is to identify and fix them. You must also record a **maximum 5 minute** screen recording describing your debugging process and showing some of the issues that you fixed as part of your submission.
+You have been provided with a Remix application designed to fetch products from a Shopify store and display them on a webpage. Users should be able to update the titles of these products. Unfortunately, there are several issues in the current implementation, and your job is to identify and fix them whilst documenting all addressed bugs in a **BUGFIX.MD file** . You must also record a **maximum 5 minute** screen recording describing your debugging process and showing some of the issues that you fixed as part of your submission.
 
 ### APIs :
 
-You will be provided an API key for Shopify services as part of your instruction email. Please note the currently broken app uses a deprecated REST api. **As part of your debugging, you will expected to swap this REST api out for a GraphQL solution** since this is the direction that Shopify has moved.  
+You will be provided an API key for Shopify services as part of your instruction email. Please note the currently broken app uses a deprecated REST api. **As part of your debugging, you will be expected to swap this REST api out for a GraphQL solution** since this is the direction that Shopify has moved.  
 
 ### Bonus Objective:
 - **Use Strong Typing:** Refactor the code to use strong typing features of TypeScript wherever applicable. This includes defining interfaces or types for API responses, form data, and other key parts of the application.
 
 ### Additional Information:
 - **Sample Video:** A sample video of the functional application is provided to help you understand the expected behavior.
-- **Concurrency Warning:** In the rare case that multiple applicants are working on this task simultaneously, you may encounter unexpected updates to product titles. Please be aware of this possibility during your testing.
-
-### Submission Video
-
-For your 5 min screen recording as part of the application, we recommend using <a href="https://www.loom.com/">Loom</a> to record your videos, however this is entirely up to you. 
-Your video should focus on explaining your debugging process whilst walking throuhg at least one example. If you do choose to use AI tools, this is your opportunity to explain why and how you use them.  
+- **Concurrency Warning:** In the case that multiple applicants are working on this task simultaneously, you may encounter unexpected updates to product titles. Please be aware of this possibility during your testing.
 
 ## Steps to Complete the Task
 
@@ -70,6 +65,11 @@ Your video should focus on explaining your debugging process whilst walking thro
    - Compress the project directory into a ZIP file.
    - Upload the ZIP file to google drive and then email the drive link to apply@patrolapp.ai. (Trying to directly email the ZIP may have issues). 
    - Use the subject line: [Your Name] - Technical Test #1
+
+### Submission Video
+
+For your 5 min screen recording as part of the application, we recommend using <a href="https://www.loom.com/">Loom</a> to record your videos, however this is entirely up to you. 
+Your video should focus on explaining your debugging process whilst walking throuhg at least one example. If you do choose to use AI tools, this is your opportunity to explain why and how you use them.  
 
 ## Important Notes
 
